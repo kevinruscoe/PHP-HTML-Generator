@@ -1,0 +1,5 @@
+{
+    "require": {
+        "loophp/phptree": "^2.6"
+    }
+}
